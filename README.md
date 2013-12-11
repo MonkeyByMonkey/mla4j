@@ -1,4 +1,4 @@
-[![Build Status](https://monkeybymonkey.ci.cloudbees.com/buildStatus/icon?job=mla4j)](https://monkeybymonkey.ci.cloudbees.com/job/mla4j)
+[![Build Status](https://ci.protomou.se:443/buildStatus/icon?job=mla4j)](https://ci.protomou.se:443/job/mla4j/)
 
 monkey loopable audio format, java loader
 
